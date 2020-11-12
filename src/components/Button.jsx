@@ -4,9 +4,7 @@ import {Link} from 'react-router-dom'
 
 const STYLES = ["btn--primary","btn--outline"]
 const SIZES = ["btn--medium","btn--large"]
-const STYLES = ["btn--primary","btn--outline"]
-const STYLES = ["btn--primary","btn--outline"]
-const STYLES = ["btn--primary","btn--outline"]
+
 
 
 export const Button = ({children, type,onClick, buttonStyle, buttonSize}) => {
